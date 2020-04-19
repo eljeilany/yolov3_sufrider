@@ -1,0 +1,10 @@
+*/.ipynb_checkpoints
+.ipynb_checkpoints
+runs
+predictions
+weights
+dataset_surfrider_cleaned
+Object-Detection-Metrics
+plots
+results*
+*_batch*
