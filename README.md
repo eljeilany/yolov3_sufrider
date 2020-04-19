@@ -17,6 +17,8 @@ train/validation split is .86
 Final all classes acheived mPA is 79.43%
 
 # Runing:
-## Data preparation: Execute all cells in the convert_dataset.ipynb notebook
-## training and validation: Execute all cells in the train_and_validate.ipynb notebook
+## Data preparation: 
+**Execute all cells in the convert_dataset.ipynb notebook**
+## training and validation: 
+**Execute all cells in the train_and_validate.ipynb notebook**
 
